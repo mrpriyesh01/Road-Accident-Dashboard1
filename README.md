@@ -5,6 +5,8 @@ This project analyzes road accident data for 2021 and 2022 to identify key insig
 stakeholders understand accident severity, vehicle involvement, and environmental conditions to support data-driven road safety 
 improvements.
 
+Dashboard <a href="https://github.com/mrpriyesh01/Road-Accident-Dashboard1/blob/main/Screenshot%202025-09-07%20155948.png">Dashboard viwe</a>
+
 Key Features & Insights
 Primary KPIs:
 Total casualties after accidents,
